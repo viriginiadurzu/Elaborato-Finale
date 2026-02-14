@@ -9,4 +9,4 @@ Questo repository contiene l'intero workflow sviluppato per l'esame di Ciberneti
 - Studente: Virginia Durzu
 - Mail: viriginiadurzu@studenti.accademiasironi.it
 - Matricola: 4298
-- Link Github: https://github.com/viriginiadurzu?tab=repositories
+- Link Github: https://github.com/viriginiadurzu/Elaborato-Finale
