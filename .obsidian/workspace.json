@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eaf05762bbdab0de",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "2c5a9cf27d1c2fee",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Gem/Gem 02 - George.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Gem 02 - George"
             }
           }
         ]
@@ -167,53 +167,53 @@
       "graph:Apri vista grafo": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
-      "homepage:Open homepage": false,
-      "publish:Pubblica modifiche": false
+      "publish:Pubblica modifiche": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "2c5a9cf27d1c2fee",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Gem/Gem 01 - Fredrick.md",
+    "Notebook/Notebook 01/Markdown/Architettura di Prompt per il Genere Noir.md",
+    "Gem/Gem 02 - George.md",
+    "Prompt vari/Gem Ugo.md",
+    "Prompt vari/Gem Greg.md",
+    "Prompt vari/Gem Kobra.md",
+    "README.md",
+    "Prompt vari/Orologio da taschino Prompt.md",
+    "Prompt vari/Orologio da taschino.png",
+    "Prompt vari/Nuraghe Prompt.md",
+    "Prompt vari/Nuraghe.png",
+    "Prompt vari/Futuro Post-apocalittico.jpeg",
+    "Prompt vari/Futuro Post-apocalittico Prompt.md",
     "Notebook/Notebook 02/Sitografia Notebook 02.md",
     "Notebook/Notebook 02/Notebook 02.md",
-    "Notebook/Notebook 01/Sitografia Notebook 01.md",
-    "Notebook/Notebook 01/Notebook 01.md",
-    "Gem/Gem 02 - George.md",
-    "Gem/Gem 01 - Fredrick.md",
-    "Prompt vari/Futuro Post-apocalittico Prompt.md",
-    "Prompt vari/Futuro Post-apocalittico.jpeg",
-    "Prompt vari/Nuraghe.png",
-    "Prompt vari/Nuraghe Prompt.md",
-    "Prompt vari/Orologio da taschino.png",
-    "Prompt vari/Orologio da taschino Prompt.md",
-    "Prompt vari/Gem Kobra.md",
-    "Prompt vari/Gem Greg.md",
-    "Futuro Post-apocalittico.png",
-    "README.md",
-    "Prompt vari",
-    "virginiadurzu.txt.sb-1a851311-ZaoA48",
-    "virginiadurzu 3.txt",
-    "virginiadurzu 2.txt",
-    "virginiadurzu 1.txt",
-    "virginiadurzu.txt",
-    "Notebook/Notebook 02/Artifact/Flashcards Prompt.md",
-    "Notebook/Notebook 02/Artifact/Mind Map.png",
-    "Notebook/Notebook 02/Artifact/Overview Audio Prompt.md",
     "Notebook/Notebook 02/Artifact/Tabella Prompt.md",
     "Notebook/Notebook 02/Artifact/Overview Video Prompt.md",
-    "Notebook/Notebook 02/Artifact/Overview Video.mp4",
+    "Notebook/Notebook 02/Artifact/Overview Audio Prompt.md",
+    "Notebook/Notebook 02/Artifact/Overview Audio.m4a",
+    "Notebook/Notebook 02/Artifact/Mind Map.png",
+    "Notebook/Notebook 02/Artifact/Flashcards Prompt.md",
+    "Notebook/Notebook 02/PDF/Calibrazione del flusso.pdf",
+    "Notebook/Notebook 02/PDF/Impostazione dei parametri durante lo slicing.pdf",
+    "Notebook/Notebook 02/PDF/L'importanza del primo strato.pdf",
+    "Notebook/Notebook 02/PDF/PETG vs Filamento PLA.pdf",
+    "Notebook/Notebook 01/Notebook 01.md",
+    "Notebook/Notebook 01/Sitografia Notebook 01.md",
+    "Notebook/Notebook 01/PDF/Why AI don't save bad idea.pdf",
+    "Notebook/Notebook 01/PDF/Vibe Coding.pdf",
+    "Notebook/Notebook 01/PDF/Tecniche Cinematografiche Noir (Deep Research Gemini 3).pdf",
+    "Notebook/Notebook 01/PDF/Negative Prompts.pdf",
+    "Notebook/Notebook 01/PDF/improve_llm_performance_reliability.pdf",
+    "Notebook/Notebook 01/Markdown/Architettura di Prompt per il Genere Noir.md.md",
+    "Futuro Post-apocalittico.png",
     "Notebook/Notebook 01/Artifacts/Tabella Prompt.md",
     "Notebook/Notebook 01/Artifacts/Report Prompt.md",
-    "Notebook/Notebook 01/Artifacts/Report.pdf",
     "Notebook/Notebook 01/Artifacts/Quiz Prompt.md",
-    "Notebook/Notebook 01/Artifacts/OverviewVideo.mp4",
     "Notebook/Notebook 01/Artifacts/Overview Video Prompt.md",
-    "Notebook/Notebook 01/Artifacts/Overview Audio.m4a",
     "Notebook/Notebook 01/Artifacts/Mappa Mentale.png",
     "Notebook/Notebook 01/Artifacts/Manuale Tecnico Prompt.md",
     "Notebook/Notebook 01/Artifacts/Flashcards Prompt.md",
-    "Notebook 01.md",
-    "Notebook/Notebook 01/Markdown/Architettura di Prompt per il Genere Noir.md.md",
-    "Mappa mentale.png",
-    "NOTEBOOK/Notebook 01/Prompt inizializzazione Notebook 01.md"
+    "Mappa mentale.png"
   ]
 }

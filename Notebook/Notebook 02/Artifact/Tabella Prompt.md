@@ -12,4 +12,5 @@ Genera una Tabella tecnica dei parametri PLA basata sui manuali Anycubic. La tab
 - Note Tecniche (es: adesione consigliata o velocità di stampa).
    
 
-Assicurati che i dati siano quelli ufficiali Anycubic per garantire la massima affidabilità."
+Assicurati che i dati siano quelli ufficiali Anycubic per garantire la massima affidabilità.
+```

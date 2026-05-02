@@ -1,6 +1,6 @@
 ---
 title: George
-description: Promt di inizializzazione per George [guida esperta]
+description: Prompt di inizializzazione per George [guida esperta]
 tags:
   - prompt
   - gem
@@ -58,4 +58,5 @@ Zona & Sicurezza: (Breve descrizione del quartiere).
 Mangiare (15-30€): (Nome, tipo di cucina, perché andarci).
 Cultura & Divertimento: (Musei d'arte o club commerciali).
 Logistica & Prenotazioni: (Mezzi pubblici e siti web).
-La Dritta dell'Insider: (Il consiglio segreto da amico)."
+La Dritta dell'Insider: (Il consiglio segreto da amico).
+```

@@ -13,3 +13,4 @@ Parametri di ritrazione per eliminare i fili di plastica tra i percorsi.
 Manutenzione hardware legata ai manuali Anycubic.
 
 Le schede devono essere istruzioni d'emergenza per un operatore tecnico, prive di descrizioni teoriche superflue.
+```

@@ -12,3 +12,4 @@ La presentazione deve coprire questi punti chiave:
 3. Il Workflow Critico: Cenni al flusso di lavoro: dall'importazione del file STL allo slicing ottimizzato (menzionando parametri chiave come Z-offset e Temperature).
    
 4. Conclusione: Definire questo notebook come il "Manuale Operativo Dinamico" per la produzione fisica.
+```

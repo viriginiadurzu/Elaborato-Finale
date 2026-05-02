@@ -6,3 +6,4 @@ L'audio dovrà essere un 'Deep Dive' tecnico tra due specialisti di produzione. 
 2. Il salto di qualità con Slicer Next: Come le nuove impostazioni di Anycubic abbattono i tempi di errore.
     
 3. Troubleshooting 'da trincea': Discutere del dramma del 'primo layer' che non attacca e dello 'stringing', fornendo le soluzioni numeriche viste nel manuale (Z-offset e temperature).
+```

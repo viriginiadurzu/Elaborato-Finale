@@ -54,3 +54,4 @@ ESTENSIONI DI TRANSCODIFICA E CIBERNETICA
 9. STRATEGIE DI PROMPTING AVANZATE
 - Few-Shot Stability: Fornire schemi "Input: Azione -> Output: Prompt" per stabilizzare lo stile Noir milanese.
 - Delimitatori Gerarchici: Usare --- o ### per isolare le istruzioni, prevenendo la corruzione semantica del comando durante l'elaborazione RAG.
+```
