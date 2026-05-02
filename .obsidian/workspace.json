@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gem/Gem 02 - George.md",
+                "file": "Notebook/Notebook 01/Markdown/Architettura di Prompt per il Genere Noir.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gem 02 - George"
+              "title": "Architettura di Prompt per il Genere Noir"
             }
           }
         ]
@@ -171,10 +171,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4832420ce71431e2",
   "lastOpenFiles": [
-    "Gem/Gem 01 - Fredrick.md",
     "Gem/Gem 02 - George.md",
+    "Gem/Gem 01 - Fredrick.md",
     "Prompt vari/Futuro Post-apocalittico Prompt.md",
     "Prompt vari/Futuro Post-apocalittico.jpeg",
     "Gem/Gem 02 - George.md.md",
