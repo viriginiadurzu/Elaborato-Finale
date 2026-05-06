@@ -1,5 +1,5 @@
 ---
-title: Futuro Post-apocalittico
+title: Nuraghe
 tags:
   - prompt
   - nanobanana

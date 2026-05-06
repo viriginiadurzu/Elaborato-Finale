@@ -14,7 +14,7 @@ MATRICE DI CONTROLLO DELL'ENTROPIA: Una tabella che associ i tipi di inquadratur
 
 TROUBLESHOOTING OPERATIVO: Checklist rapida per correggere artefatti visivi o allucinazioni del modello durante la generazione in LTX Studio.
 
-Nota bene: Niente teoria. Solo istruzioni, parametri e prompt pronti all'uso."
+Nota bene: Niente teoria. Solo istruzioni, parametri e prompt pronti all'uso.
 
 PROTOCOLLO DI FEEDBACK E CORREZIONE (DEBUGGING VISIVO): Crea una tabella 'Problema -> Soluzione Tecnica' basata sui documenti di Google Cloud:
 
