@@ -14,3 +14,4 @@ Vibe Coding: Quali parametri di luce/grana attivare per lo stile 'Milanese-Noir'
 Troubleshooting: Cosa fare se il Motion Bucket causa flickering.
 
 Per ogni risposta, includi una Razionalità Tecnica che spieghi la scelta basandosi sui manuali di Google Cloud e sulle tecniche Noir. Il tono deve essere severo, professionale e orientato al risultato.
+```

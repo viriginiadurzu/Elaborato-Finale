@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notebook/Notebook 01/Artifacts/Overview Video Prompt.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Overview Video Prompt"
             }
           }
         ]
@@ -173,10 +173,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Prompt vari/Futuro Post-apocalittico.jpeg",
-    "Gem/Gem 01 - Fredrick.md",
-    "Gem/Gem 02 - George.md",
+    "Notebook/Notebook 01/Artifacts/Report Prompt.md",
+    "Notebook/Notebook 01/Artifacts/Report.pdf",
+    "Notebook/Notebook 01/Artifacts/Quiz Prompt.md",
+    "Notebook/Notebook 01/Artifacts/Overview Video Prompt.md",
+    "Notebook/Notebook 01/Artifacts/Overview Video.mp4",
+    "Notebook/Notebook 01/Artifacts/Overview Audio.m4a",
+    "Notebook/Notebook 01/Artifacts/Mappa Mentale.png",
     "Notebook/Notebook 01/Artifacts/Manuale Tecnico Prompt.md",
+    "Notebook/Notebook 01/Artifacts/Manuale Tecnico AI Video.pdf",
+    "Notebook/Notebook 01/Artifacts/Flashcards Prompt.md",
+    "Notebook/Notebook 01/Artifacts/Tabella Prompt.md",
+    "Gem/Gem 01 - Fredrick.md",
+    "README.md",
+    "Prompt vari/Futuro Post-apocalittico.jpeg",
+    "Gem/Gem 02 - George.md",
     "Prompt vari/Orologio da taschino Prompt.md",
     "Prompt vari/Orologio da taschino.png",
     "Prompt vari/Nuraghe Prompt.md",
@@ -194,22 +205,11 @@
     "Notebook/Notebook 02/Artifacts/Overview Audio.m4a",
     "Notebook/Notebook 02/Artifacts/Mind Map.png",
     "Notebook/Notebook 02/Artifacts/Flashcards Prompt.md",
-    "Notebook/Notebook 01/Artifacts/Flashcards Prompt.md",
-    "Notebook/Notebook 01/Artifacts/Manuale Tecnico AI Video.pdf",
-    "Notebook/Notebook 01/Artifacts/Mappa Mentale.png",
-    "Notebook/Notebook 01/Artifacts/Tabella Prompt.md",
-    "Notebook/Notebook 01/Artifacts/Report Prompt.md",
-    "Notebook/Notebook 01/Artifacts/Report.pdf",
-    "Notebook/Notebook 01/Artifacts/Quiz Prompt.md",
-    "Notebook/Notebook 01/Artifacts/Overview Video Prompt.md",
-    "Notebook/Notebook 01/Artifacts/Overview Video.mp4",
-    "README.md",
     "Notebook/Notebook 01/Sitografia Notebook 01.md",
     "Notebook/Notebook 01/PDF/improve_llm_performance_reliability.pdf",
     "Notebook/Notebook 01/PDF/Gen 3 Alpha Prompting Guide.pdf",
     "Notebook/Notebook 01/PDF/Al mare con la ragazza.pdf",
     "Notebook/Notebook 01/PDF/AI Prompting Guide.pdf",
-    "Notebook/Notebook 01/Artifacts/Overview Audio.m4a",
     "Gem/Gem 02 - George.md.md",
     "Notebook/Notebook 02/Sitografia Notebook 02.md",
     "Notebook/Notebook 02/Notebook 02.md",

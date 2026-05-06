@@ -25,3 +25,4 @@ Se il personaggio subisce Morphing -> [Azione: Rafforzamento del Grounding trami
 Se l'immagine ha Flickering -> [Azione: Calibrazione Motion Bucket e riduzione Temperatura a 0.2].
 
 Se lo stile devia dal Noir verso il Cartoonish -> [Azione: Iniezione di Negative Prompts specifici e Vibe Coding: 'Hyper-Realistic 35mm Film Grain'].
+```
