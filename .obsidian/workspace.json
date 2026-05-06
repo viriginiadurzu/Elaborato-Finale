@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notebook/Notebook 01/Artifacts/Overview Video Prompt.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Overview Video Prompt"
+              "title": "README"
             }
           }
         ]
@@ -173,10 +173,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notebook/Notebook 01/Artifacts/Overview Video Prompt.md",
     "Notebook/Notebook 01/Artifacts/Report Prompt.md",
     "Notebook/Notebook 01/Artifacts/Report.pdf",
     "Notebook/Notebook 01/Artifacts/Quiz Prompt.md",
-    "Notebook/Notebook 01/Artifacts/Overview Video Prompt.md",
     "Notebook/Notebook 01/Artifacts/Overview Video.mp4",
     "Notebook/Notebook 01/Artifacts/Overview Audio.m4a",
     "Notebook/Notebook 01/Artifacts/Mappa Mentale.png",
